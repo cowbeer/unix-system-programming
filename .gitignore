@@ -1,0 +1,5 @@
+.vscode
+.idea
+*.txt
+*.dat
+a.out
